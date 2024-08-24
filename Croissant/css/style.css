@@ -8,9 +8,16 @@ h1 {
 
 p {
     text-align: center;
+    margin-top: 10px;
 }
 
-.image-fluid {
-    max-width: 70%;
-    max-height: 70%
+.img-fluid {
+    max-width: 500px;
+    max-height: 500px;
+    align: center;
+
+}
+
+.container {
+    margin-top: 30px;
 }
